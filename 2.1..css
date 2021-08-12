@@ -1,0 +1,11 @@
+body {font-family: Times New Roman;}
+h1 {
+	font-size: 32pt; 
+	text-align: center;
+}
+p { 
+	font-size: 14pt; 
+	text-align: justify;
+}
+.picture {text-align: center;}
+p.first {font-size: 24pt;}
